@@ -28,5 +28,18 @@
     "eslint-plugin-react-refresh": "^0.4.24",
     "globals": "^16.5.0",
     "vite": "^7.3.1"
-  }
+  },
+  "description": "<!-- #run server with:  cd backend npx nodemon server.js -->",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayraj-pisal/Smart-PDF-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayraj-pisal/Smart-PDF-System/issues"
+  },
+  "homepage": "https://github.com/jayraj-pisal/Smart-PDF-System#readme"
 }
